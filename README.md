@@ -17,7 +17,7 @@
 
 ## NodeJs
 - [Video Watchparty](https://github.com/shallx/video-stream)
-- [Personal CLI)(https://github.com/shallx/skyler)
+- [Personal CLI](https://github.com/shallx/skyler)
 
 ## Game
 - [FireSurvival - Surviving Fire outbreak](https://github.com/shallx/Fire-survival)
