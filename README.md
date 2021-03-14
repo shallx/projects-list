@@ -15,6 +15,10 @@
 - [Bookbery - Book Library](https://github.com/shallx/bookberry)
 - [Ecommerce - Flutter](https://pages.github.com/)
 
+## NodeJs
+- [Video Watchparty](https://github.com/shallx/video-stream)
+- [Personal CLI)(https://github.com/shallx/skyler)
+
 ## Game
 - [FireSurvival - Surviving Fire outbreak](https://github.com/shallx/Fire-survival)
 
